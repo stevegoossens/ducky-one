@@ -12,60 +12,60 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Execute File Window|<key>Numpad Enter</key>|   |   |
+|Execute File Window|<kbd>Numpad Enter</kbd>|   |   |
 
 ### View2D
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Zoom Out|<key>Numpad -</key>|   |   |
-|Zoom In|<key>Numpad +</key>|   |   |
+|Zoom Out|<kbd>Numpad -</kbd>|   |   |
+|Zoom In|<kbd>Numpad +</kbd>|   |   |
 
 ### View2D Buttons List
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Zoom Out|<key>Numpad -</key>|   |   |
-|Zoom In|<key>Numpad +</key>|   |   |
+|Zoom Out|<kbd>Numpad -</kbd>|   |   |
+|Zoom In|<kbd>Numpad +</kbd>|   |   |
 
 ### Outliner
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Show Active|<key>Numpad .</key>|   |   |
-|Show/Hide One Level|<key>Numpad +</key>|   |   |
-|Show/Hide One Level|<key>Numpad -</key>|   |   |
+|Show Active|<kbd>Numpad .</kbd>|   |   |
+|Show/Hide One Level|<kbd>Numpad +</kbd>|   |   |
+|Show/Hide One Level|<kbd>Numpad -</kbd>|   |   |
 
 ### Dopesheet
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Select More|<key>Ctrl</key>+<key>Numpad +</key>|   |   |
-|Select Less|<key>Ctrl</key>+<key>Numpad -</key>|   |   |
-|Frame Selected|<key>Numpad .</key>|   |   |
-|Go to Current Frame|<key>Numpad 0</key>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Frame Selected|<kbd>Numpad .</kbd>|   |   |
+|Go to Current Frame|<kbd>Numpad 0</kbd>|   |   |
 
 ### Grease Pencil Stroke Edit Mode
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Select More|<key>Ctrl</key>+<key>Numpad +</key>|   |   |
-|Select Less|<key>Ctrl</key>+<key>Numpad -</key>|   |   |
-|Isolate Layer|<key>Numpad *</key>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Isolate Layer|<kbd>Numpad *</kbd>|   |   |
 
 ### Grease Pencil Stroke Sculpt Mode
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Select More|<key>Ctrl</key>+<key>Numpad +</key>|   |   |
-|Select Less|<key>Ctrl</key>+<key>Numpad -</key>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
 
 ### Grease Pencil Stroke Vertex Mode
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Select More|<key>Ctrl</key>+<key>Numpad +</key>|   |   |
-|Select Less|<key>Ctrl</key>+<key>Numpad -</key>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
 
 ### Object Mode
 
@@ -347,12 +347,12 @@ This is a unique list of all the key combos above that need to be reproduced.
 
 |Standard input|Custom input|Macro input|
 |---|---|---|
-|<key>Numpad Enter</key>|   |   |
-|<key>Numpad -</key>|   |   |
-|<key>Numpad +</key>|   |   |
-|<key>Numpad .</key>|   |   |
-|<key>Numpad *</key>|   |   |
-|<key>Numpad 0</key>|   |   |
+|<kbd>Numpad Enter</kbd>|   |   |
+|<kbd>Numpad -</kbd>|   |   |
+|<kbd>Numpad +</kbd>|   |   |
+|<kbd>Numpad .</kbd>|   |   |
+|<kbd>Numpad *</kbd>|   |   |
+|<kbd>Numpad 0</kbd>|   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
@@ -380,8 +380,8 @@ This is a unique list of all the key combos above that need to be reproduced.
 
 |Standard input|Custom input|Macro input|
 |---|---|---|
-|<key>Ctrl</key>+<key>Numpad +</key>|   |   |
-|<key>Ctrl</key>+<key>Numpad -</key>|   |   |
+|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
+|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
