@@ -12,7 +12,7 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Execute File Window|<kbd>Numpad Enter</kbd>|   |   |
+|:x: Execute File Window|<kbd>Numpad Enter</kbd>|   |   |
 
 ### View2D
 
