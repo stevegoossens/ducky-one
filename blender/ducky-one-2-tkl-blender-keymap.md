@@ -208,27 +208,33 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 |Expand Channels|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
 |Collapse Channels|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
 
-TODO: ****************************** stopping point
-
 ### Knife Tool Modal Map
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Confirm|<kbd>Numpad Enter</kbd>|   |   |
+|Confirm|<kbd>Numpad Enter</kbd>|:x:<sub>1</sub>|   |
+
+1. equivalents: <kbd>Return</kbd> or <kbd>Spacebar</kbd>
 
 ### Custom Normals Modal Map
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Confirm|<kbd>Numpad Enter</kbd>|   |   |
+|Confirm|<kbd>Numpad Enter</kbd>|:x:<sub>1</sub>|   |
+
+1. equivalents: <kbd>Return</kbd> or <kbd>Left Mouse</kbd>
 
 ### Bevel Modal Map
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Confirm|<kbd>Numpad Enter</kbd>|   |   |
-|Increase segments|<kbd>Numpad +</kbd>|   |   |
-|Decrease segments|<kbd>Numpad -</kbd>|   |   |
+|Confirm|<kbd>Numpad Enter</kbd>|:x:<sub>1</sub>|   |
+|Increase segments|<kbd>Numpad +</kbd>|:x:<sub>2</sub>|   |
+|Decrease segments|<kbd>Numpad -</kbd>|:x:<sub>3</sub>|   |
+
+1. equivalents: <kbd>Return</kbd> or <kbd>Left Mouse</kbd>
+2. equivalent: <kbd>Mouse Wheel Up</kbd>
+3. equivalent: <kbd>Mouse Wheel Down</kbd>
 
 ### UV Editor
 
@@ -248,35 +254,49 @@ TODO: ****************************** stopping point
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Confirm Sampling|<kbd>Numpad Enter</kbd>|   |   |
+|Confirm Sampling|<kbd>Numpad Enter</kbd>|:x:<sub>1</sub>|   |
+
+1. equivalents: <kbd>Return</kbd> or <kbd>Left Mouse</kbd>
 
 ### Eyedropper ColorRamp PointSampling Map
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Confirm Sampling|<kbd>Numpad Enter</kbd>|   |   |
+|Confirm Sampling|<kbd>Numpad Enter</kbd>|:x:<sub>1</sub>|   |
+
+1. equivalents: <kbd>Return</kbd> or <kbd>Right Mouse</kbd>
 
 ### Transform Modal Map
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Confirm|<kbd>Numpad Enter</kbd>|   |   |
+|Confirm|<kbd>Numpad Enter</kbd>|:x:<sub>1</sub>|   |
+
+1. equivalents: <kbd>Return</kbd> or <kbd>Left Mouse</kbd>
 
 ### View3D Fly Modal
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Confirm|<kbd>Numpad Enter</kbd>|   |   |
-|Accelerate|<kbd>Numpad +</kbd>|   |   |
-|Decelerate|<kbd>Numpad -</kbd>|   |   |
+|Confirm|<kbd>Numpad Enter</kbd>|:x:<sub>1</sub>|   |
+|Accelerate|<kbd>Numpad +</kbd>|:x:<sub>2</sub>|   |
+|Decelerate|<kbd>Numpad -</kbd>|:x:<sub>3</sub>|   |
+
+1. equivalents: <kbd>Return</kbd> or <kbd>Spacebar</kbd> or <kbd>Left Mouse</kbd>
+2. equivalent: <kbd>Mouse Wheel Up</kbd>
+3. equivalent: <kbd>Mouse Wheel Down</kbd>
 
 ### View3D Walk Modal
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Confirm|<kbd>Numpad Enter</kbd>|   |   |
-|Accelerate|<kbd>Numpad +</kbd>|   |   |
-|Decelerate|<kbd>Numpad -</kbd>|   |   |
+|Confirm|<kbd>Numpad Enter</kbd>|:x:<sub>1</sub>|   |
+|Accelerate|<kbd>Numpad +</kbd>|:x:<sub>2</sub>|   |
+|Decelerate|<kbd>Numpad -</kbd>|:x:<sub>3</sub>|   |
+
+1. equivalents: <kbd>Return</kbd> or <kbd>Left Mouse</kbd>
+2. equivalent: <kbd>Mouse Wheel Up</kbd>
+3. equivalent: <kbd>Mouse Wheel Down</kbd>
 
 ### Graph Editor
 
@@ -292,18 +312,21 @@ TODO: ****************************** stopping point
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
 |View Center|<kbd>Numpad .</kbd>|   |   |
-|Zoom In|<kbd>Numpad +</kbd>|   |   |
-|Zoom Out|<kbd>Numpad -</kbd>|   |   |
-|View Zoom Ratio|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
-|View Zoom Ratio|<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
-|View Zoom Ratio|<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
-|View Zoom Ratio|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
-|View Zoom Ratio|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
-|View Zoom Ratio|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
-|View Zoom Ratio|<kbd>Numpad 1</kbd>|   |   |
-|View Zoom Ratio|<kbd>Numpad 2</kbd>|   |   |
-|View Zoom Ratio|<kbd>Numpad 4</kbd>|   |   |
-|View Zoom Ratio|<kbd>Numpad 8</kbd>|   |   |
+|Zoom In|<kbd>Numpad +</kbd>|:x:<sub>1</sub>|   |
+|Zoom Out|<kbd>Numpad -</kbd>|:x:<sub>2</sub>|   |
+|View Zoom Ratio (8x)|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
+|View Zoom Ratio (4x)|<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
+|View Zoom Ratio (2x)|<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
+|View Zoom Ratio (8x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
+|View Zoom Ratio (4x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
+|View Zoom Ratio (2x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
+|View Zoom Ratio (1x)|<kbd>Numpad 1</kbd>|   |   |
+|View Zoom Ratio (1/2x)|<kbd>Numpad 2</kbd>|   |   |
+|View Zoom Ratio (1/4x)|<kbd>Numpad 4</kbd>|   |   |
+|View Zoom Ratio (1/8x)|<kbd>Numpad 8</kbd>|   |   |
+
+1. equivalent: <kbd>Mouse Wheel In</kbd>
+2. equivalent: <kbd>Mouse Wheel Out</kbd>
 
 ### Node Editor
 
@@ -315,12 +338,12 @@ TODO: ****************************** stopping point
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Increment Number in Filename|<kbd>Numpad +</kbd>|   |   |
-|Increment Number in Filename|<kbd>Shift</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Increment Number in Filename|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Increment Number in Filename|<kbd>Numpad -</kbd>|   |   |
-|Increment Number in Filename|<kbd>Shift</kbd>+<kbd>Numpad -</kbd>|   |   |
-|Increment Number in Filename|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Increment Number in Filename (1)|<kbd>Numpad +</kbd>|   |   |
+|Increment Number in Filename (10)|<kbd>Shift</kbd>+<kbd>Numpad +</kbd>|   |   |
+|Increment Number in Filename (100)|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
+|Increment Number in Filename (-1)|<kbd>Numpad -</kbd>|   |   |
+|Increment Number in Filename (-10)|<kbd>Shift</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Increment Number in Filename (-100)|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
 
 ### File Browser Main
 
@@ -332,12 +355,12 @@ TODO: ****************************** stopping point
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Increment Number in Filename|<kbd>Numpad +</kbd>|   |   |
-|Increment Number in Filename|<kbd>Shift</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Increment Number in Filename|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Increment Number in Filename|<kbd>Numpad -</kbd>|   |   |
-|Increment Number in Filename|<kbd>Shift</kbd>+<kbd>Numpad -</kbd>|   |   |
-|Increment Number in Filename|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Increment Number in Filename (1)|<kbd>Numpad +</kbd>|   |   |
+|Increment Number in Filename (10)|<kbd>Shift</kbd>+<kbd>Numpad +</kbd>|   |   |
+|Increment Number in Filename (100)|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
+|Increment Number in Filename (-1)|<kbd>Numpad -</kbd>|   |   |
+|Increment Number in Filename (-10)|<kbd>Shift</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Increment Number in Filename (-100)|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
 
 ### NLA Editor
 
@@ -350,9 +373,13 @@ TODO: ****************************** stopping point
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Context Int Cycle|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Context Int Cycle|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
-|Line Break|<kbd>Numpad Enter</kbd>|   |   |
+|Context Int Cycle|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|:x:<sub>1</sub>|   |
+|Context Int Cycle|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|:x:<sub>2</sub>|   |
+|Line Break|<kbd>Numpad Enter</kbd>|:x:<sub>3</sub>|   |
+
+1. equivalent: <kbd>Ctrl</kbd>+<kbd>Mouse Wheel Up</kbd>
+2. equivalent: <kbd>Ctrl</kbd>+<kbd>Mouse Wheel Down</kbd>
+3. equivalent: <kbd>Return</kbd>
 
 ### Sequencer
 
@@ -367,40 +394,48 @@ TODO: ****************************** stopping point
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Sequencer View Zoom Ratio|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
-|Sequencer View Zoom Ratio|<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
-|Sequencer View Zoom Ratio|<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
-|Sequencer View Zoom Ratio|<kbd>Numpad 1</kbd>|   |   |
-|Sequencer View Zoom Ratio|<kbd>Numpad 2</kbd>|   |   |
-|Sequencer View Zoom Ratio|<kbd>Numpad 4</kbd>|   |   |
-|Sequencer View Zoom Ratio|<kbd>Numpad 8</kbd>|   |   |
+|Sequencer View Zoom Ratio (8x)|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
+|Sequencer View Zoom Ratio (4x)|<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
+|Sequencer View Zoom Ratio (2x)|<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
+|Sequencer View Zoom Ratio (1x)|<kbd>Numpad 1</kbd>|   |   |
+|Sequencer View Zoom Ratio (1/2x)|<kbd>Numpad 2</kbd>|   |   |
+|Sequencer View Zoom Ratio (1/4x)|<kbd>Numpad 4</kbd>|   |   |
+|Sequencer View Zoom Ratio (1/8x)|<kbd>Numpad 8</kbd>|   |   |
 
 ### Console
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Context Int Cycle|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Context Int Cycle|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
-|Clear Line|<kbd>Shift</kbd>+<kbd>Numpad Enter</kbd>|   |   |
-|Console Execute|<kbd>Numpad Enter</kbd>|   |   |
+|Context Int Cycle|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|:x:<sub>1</sub>|   |
+|Context Int Cycle|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|:x:<sub>2</sub>|   |
+|Clear Line|<kbd>Shift</kbd>+<kbd>Numpad Enter</kbd>|:x:<sub>3</sub>|   |
+|Console Execute|<kbd>Numpad Enter</kbd>|:x:<sub>4</sub>|   |
+
+1. equivalent: <kbd>Ctrl</kbd>+<kbd>Mouse Wheel Up</kbd>
+2. equivalent: <kbd>Ctrl</kbd>+<kbd>Mouse Wheel Down</kbd>
+3. equivalent: <kbd>Shift</kbd>+<kbd>Return</kbd>
+4. equivalent: <kbd>Return</kbd>
 
 ### Clip Editor
 
 |Operation|Standard input|Custom input|Macro input|
 |---|---|---|---|
-|Zoom In|<kbd>Numpad +</kbd>|   |   |
-|Zoom Out|<kbd>Numpad -</kbd>|   |   |
-|View Zoom Ratio|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
-|View Zoom Ratio|<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
-|View Zoom Ratio|<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
-|View Zoom Ratio|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
-|View Zoom Ratio|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
-|View Zoom Ratio|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
-|View Zoom Ratio|<kbd>Numpad 1</kbd>|   |   |
-|View Zoom Ratio|<kbd>Numpad 2</kbd>|   |   |
-|View Zoom Ratio|<kbd>Numpad 4</kbd>|   |   |
-|View Zoom Ratio|<kbd>Numpad 8</kbd>|   |   |
+|Zoom In|<kbd>Numpad +</kbd>|:x:<sub>1</sub>|   |
+|Zoom Out|<kbd>Numpad -</kbd>|:x:<sub>2</sub>|   |
+|View Zoom Ratio (8x)|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
+|View Zoom Ratio (4x)|<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
+|View Zoom Ratio (2x)|<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
+|View Zoom Ratio (8x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
+|View Zoom Ratio (4x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
+|View Zoom Ratio (2x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
+|View Zoom Ratio (1x)|<kbd>Numpad 1</kbd>|   |   |
+|View Zoom Ratio (1/2x)|<kbd>Numpad 2</kbd>|   |   |
+|View Zoom Ratio (1/4x)|<kbd>Numpad 4</kbd>|   |   |
+|View Zoom Ratio (1/8x)|<kbd>Numpad 8</kbd>|   |   |
 |Frame Selected|<kbd>Numpad .</kbd>|   |   |
+
+1. equivalent: <kbd>Mouse Wheel In</kbd>
+2. equivalent: <kbd>Mouse Wheel Out</kbd>
 
 ### Clip Graph Editor
 
@@ -410,58 +445,55 @@ TODO: ****************************** stopping point
 
 ## Input mapping
 
-This is a unique list of all the single keys and key combos above that need to be reproduced.
+This is a unique list of all the single keys and key combos above that need to be reproduced (that don't already have an equivalent).
 
 ### Single keys
 
-|Standard input|Custom input|Macro input|
-|---|---|---|
-|<kbd>Numpad 0</kbd>|   |   |
-|<kbd>Numpad 1</kbd>|   |   |
-|<kbd>Numpad 2</kbd>|   |   |
-|<kbd>Numpad 3</kbd>|   |   |
-|<kbd>Numpad 4</kbd>|   |   |
-|<kbd>Numpad 5</kbd>|   |   |
-|<kbd>Numpad 6</kbd>|   |   |
-|<kbd>Numpad 7</kbd>|   |   |
-|<kbd>Numpad 8</kbd>|   |   |
-|<kbd>Numpad 9</kbd>|   |   |
-|<kbd>Numpad Enter</kbd>|   |   |
-|<kbd>Numpad -</kbd>|   |   |
-|<kbd>Numpad /</kbd>|   |   |
-|<kbd>Numpad .</kbd>|   |   |
-|<kbd>Numpad *</kbd>|   |   |
-|<kbd>Numpad +</kbd>|   |   |
+|No. of times used|Standard input|Custom input|Macro input|
+|---|---|---|---|
+|6|<kbd>Numpad 0</kbd>|   |   |
+|4|<kbd>Numpad 1</kbd>|   |   |
+|4|<kbd>Numpad 2</kbd>|   |   |
+|1|<kbd>Numpad 3</kbd>|   |   |
+|4|<kbd>Numpad 4</kbd>|   |   |
+|1|<kbd>Numpad 5</kbd>|   |   |
+|1|<kbd>Numpad 6</kbd>|   |   |
+|1|<kbd>Numpad 7</kbd>|   |   |
+|4|<kbd>Numpad 8</kbd>|   |   |
+|1|<kbd>Numpad 9</kbd>|   |   |
+|5|<kbd>Numpad -</kbd>|   |   |
+|9|<kbd>Numpad .</kbd>|   |   |
+|1|<kbd>Numpad *</kbd>|   |   |
+|5|<kbd>Numpad +</kbd>|   |   |
+
 
 ### Key combos
 
-|Standard input|Custom input|Macro input|
-|---|---|---|
-|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Numpad 0</kbd>|   |   |
-|<kbd>Ctrl</kbd>+<kbd>Numpad 0</kbd>   |   |   |
-|<kbd>Ctrl</kbd>+<kbd>Numpad 1</kbd>|   |   |
-|<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
-|<kbd>Ctrl</kbd>+<kbd>Numpad 3</kbd>|   |   |
-|<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
-|<kbd>Ctrl</kbd>+<kbd>Numpad 6</kbd>|   |   |
-|<kbd>Ctrl</kbd>+<kbd>Numpad 7</kbd>|   |   |
-|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
-|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
-|<kbd>Ctrl</kbd>+<kbd>Numpad .</kbd>|   |   |
-|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 1</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 3</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 7</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Numpad 1</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Numpad 3</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Numpad 4</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Numpad 6</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Numpad 7</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Numpad Enter</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Numpad -</kbd>|   |   |
-|<kbd>Shift</kbd>+<kbd>Numpad +</kbd>|   |   |
+|No. of times used|Standard input|Custom input|Macro input|
+|---|---|---|---|
+|1|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Numpad 0</kbd>|   |   |
+|1|<kbd>Ctrl</kbd>+<kbd>Numpad 1</kbd>|   |   |
+|4|<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
+|1|<kbd>Ctrl</kbd>+<kbd>Numpad 3</kbd>|   |   |
+|4|<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
+|1|<kbd>Ctrl</kbd>+<kbd>Numpad 6</kbd>|   |   |
+|1|<kbd>Ctrl</kbd>+<kbd>Numpad 7</kbd>|   |   |
+|4|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
+|17|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|1|<kbd>Ctrl</kbd>+<kbd>Numpad .</kbd>|   |   |
+|17|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
+|1|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 1</kbd>|   |   |
+|2|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
+|1|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 3</kbd>|   |   |
+|2|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
+|1|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 7</kbd>|   |   |
+|2|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
+|1|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|1|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
+|1|<kbd>Shift</kbd>+<kbd>Numpad 1</kbd>|   |   |
+|1|<kbd>Shift</kbd>+<kbd>Numpad 3</kbd>|   |   |
+|1|<kbd>Shift</kbd>+<kbd>Numpad 4</kbd>|   |   |
+|1|<kbd>Shift</kbd>+<kbd>Numpad 6</kbd>|   |   |
+|1|<kbd>Shift</kbd>+<kbd>Numpad 7</kbd>|   |   |
+|2|<kbd>Shift</kbd>+<kbd>Numpad -</kbd>|   |   |
+|2|<kbd>Shift</kbd>+<kbd>Numpad +</kbd>|   |   |
