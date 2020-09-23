@@ -6,6 +6,12 @@ The keymap provided here works in conjunction with macro-programmed key combos, 
 
 This requires you to program the input key combos on your Ducky One keyboard, so that the output key combos can work in Blender.
 
+## Keymap file
+
+You can download and import this file into Blender:
+
+[Ducky One 2 TKL Blender Keymap (ISO UK)](blender-keymap-ducky-one-2-tkl-iso-uk.py)
+
 ## Key-Binding
 
 ### Screen
