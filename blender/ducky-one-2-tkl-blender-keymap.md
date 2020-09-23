@@ -505,7 +505,7 @@ This is a unique list of all the single keys and key combos above that need to b
 |14|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 |1|Collapse Channels|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 |2|Increment Number in Filename (-100)|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
-|1|Frame Selected (All Regions)|<kbd>Ctrl</kbd>+<kbd>Numpad .</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>.</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>.</kbd>|
+|1|Frame Selected (All Regions)|<kbd>Ctrl</kbd>+<kbd>Numpad .</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>#</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
 |14|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
 |1|Expand Channels|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
 |2|Increment Number in Filename (100)|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
