@@ -1,4 +1,4 @@
-# ducky-one-2-tkl-blender-keymap
+# Ducky One 2 TKL Blender Keymap
 
 Blender includes keyboard shortcuts for the numeric keypad found on full-size keyboards. On a smaller form-factor keyboard (e.g. tenkeyless) without a numeric pad, there is no alternative keyboard shortcut.
 
