@@ -516,11 +516,11 @@ This is a unique list of all the single keys and key combos above that need to b
 |1|Expand Channels|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
 |2|Increment Number in Filename (100)|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
 |1|View Axis (Back, Align Active)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 1</kbd>|   |   |
-|2|View Zoom Ratio (2x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
+|2|View Zoom Ratio (2x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>.</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>.</kbd>|
 |1|View Axis (Left, Align Active)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 3</kbd>|   |   |
-|2|View Zoom Ratio (4x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
+|2|View Zoom Ratio (4x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd>|
 |1|View Axis (Bottom, Align Active)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 7</kbd>|   |   |
-|2|View Zoom Ratio (8x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
+|2|View Zoom Ratio (8x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>[</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>[</kbd>|
 |1|Select Previous Element|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>Page Up</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Page Up</kbd>|
 |1|Select Next Element|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>Page Down</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Page Down</kbd>|
 |1|View Axis (Front, Align Active)|<kbd>Shift</kbd>+<kbd>Numpad 1</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>,</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>,</kbd>|
