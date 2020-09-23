@@ -10,7 +10,7 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 
 You can download and import this file into Blender:
 
-[Ducky One 2 TKL Blender Keymap (ISO UK)](https://github.com/stevegoossens/ducky-one/raw/blender/blender/blender-keymap-ducky-one-2-tkl-iso-uk.py)
+[Ducky One 2 TKL Blender Keymap (ISO UK)](https://github.com/stevegoossens/ducky-one/raw/blender/blender/blender-keymap-ducky-one-2-tkl-iso-uk.py) (right click, Save As...)
 
 ## Key-Binding
 
