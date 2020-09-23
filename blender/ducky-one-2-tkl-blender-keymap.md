@@ -12,6 +12,8 @@ You can download and import this file into Blender:
 
 [Ducky One 2 TKL Blender Keymap (ISO UK)](https://github.com/stevegoossens/ducky-one/raw/blender/blender/blender-keymap-ducky-one-2-tkl-iso-uk.py) (right click, Save As...)
 
+NB: for some reason, Blender recognises the hash key (<kbd>#</kbd> just to the left of the <kbd>Return</kbd> key) as a double quote key (<kbd>"</kbd>) and displays it as such in the Blender Preferences UI, as well as listing it as `QUOTE` in the keymap file. This is despite the hash key producing a normal `#` character in all text editors on the development system. I think in practise it will work, but just is listed incorrectly in the UI and keymap file.
+
 ## Key-Binding
 
 This section lists all the operations that are mapped to a Numpad input. Some already have an alternate input by mouse or keyboard, so those have been skipped. Operations with a custom mapping require you to press the `Macro input` key combination, which is translated (via Ducky hardware macro) into the `Custom input` that is received by Blender.
