@@ -14,6 +14,10 @@ You can download and import this file into Blender:
 
 ## Key-Binding
 
+This section lists all the operations that are mapped to a Numpad input. Some already have an alternate input by mouse or keyboard, so those have been skipped. Operations with a custom mapping require you to press the `Macro input` key combination, which is translated (via Ducky hardware macro) into the `Custom input` that is received by Blender.
+
+TL;DR: the new key combos (that you press) are the `Macro input`.
+
 ### Screen
 
 |Operation|Standard input|Macro input|Custom input|
@@ -451,7 +455,44 @@ You can download and import this file into Blender:
 
 ## Input mapping
 
-This is a unique list of all the single keys and key combos above that need to be reproduced (that don't already have an equivalent).
+This is a unique list of all the single keys and key combos above that ideally need to be reproduced (that don't already have an equivalent).
+
+Key combos that occur the most, or provide the most useful operation, have been prioritised for mapping, as the Ducky One hardware macro programming is limited (e.g. <kbd>Shift</kbd> is the only modifier allowed with <kbd>Fn</kbd>).
+
+### Macro programming required
+
+Each of the single key and key combos listed below requires those to be added via the Ducky in-built hardware macro programming feature.
+
+|Macro input|Macro output|
+|---|---|
+|<kbd>Fn</kbd>+<kbd>O</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>O</kbd>|
+|<kbd>Fn</kbd>+<kbd>,</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>,</kbd>|
+|<kbd>Fn</kbd>+<kbd>.</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>.</kbd>|
+|<kbd>Fn</kbd>+<kbd>/</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>/</kbd>|
+|<kbd>Fn</kbd>+<kbd>L</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd>|
+|<kbd>Fn</kbd>+<kbd>;</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>;</kbd>|
+|<kbd>Fn</kbd>+<kbd>'</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>'</kbd>|
+|<kbd>Fn</kbd>+<kbd>P</kbd>|<kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>P</kbd>|
+|<kbd>Fn</kbd>+<kbd>[</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>[</kbd>|
+|<kbd>Fn</kbd>+<kbd>]</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>]</kbd>|
+|<kbd>Fn</kbd>+<kbd>-</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
+|<kbd>Fn</kbd>+<kbd>#</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
+|<kbd>Fn</kbd>+<kbd>Backspace</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Backspace</kbd>|
+|<kbd>Fn</kbd>+<kbd>=</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>O</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>O</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>#</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>.</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>.</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>[</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>[</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>Page Up</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Page Up</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>Page Down</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Page Down</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>,</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>,</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>/</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>'</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>'</kbd>|
+|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>P</kbd>|
 
 ### Single keys
 
