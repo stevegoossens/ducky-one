@@ -30,16 +30,16 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Zoom Out|<kbd>Numpad -</kbd>|   |   |
-|Zoom In|<kbd>Numpad +</kbd>|   |   |
+|Zoom Out|<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>-</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
+|Zoom In|<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>=</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
 
 ### Outliner
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
 |Show Active|<kbd>Numpad .</kbd>|:x:<sub>1</sub>|   |
-|Show/Hide One Level|<kbd>Numpad +</kbd>|   |   |
-|Show/Hide One Level|<kbd>Numpad -</kbd>|   |   |
+|Show/Hide One Level|<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>=</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Show/Hide One Level|<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>-</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 
 1. equivalent: <kbd>.</kbd>
 
@@ -47,39 +47,39 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
-|Frame Selected|<kbd>Numpad .</kbd>|   |   |
-|Go to Current Frame|<kbd>Numpad 0</kbd>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
+|Frame Selected|<kbd>Numpad .</kbd>|<kbd>Fn</kbd>+<kbd>#</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
+|Go to Current Frame|<kbd>Numpad 0</kbd>|<kbd>Fn</kbd>+<kbd>O</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>O</kbd>|
 
 ### Grease Pencil Stroke Edit Mode
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
-|Isolate Layer|<kbd>Numpad *</kbd>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
+|Isolate Layer|<kbd>Numpad *</kbd>|<kbd>Fn</kbd>+<kbd>Backspace</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Backspace</kbd>|
 
 ### Grease Pencil Stroke Sculpt Mode
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 
 ### Grease Pencil Stroke Vertex Mode
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 
 ### Object Mode
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 
 ### Paint Curve
 
@@ -93,15 +93,15 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 
 ### Mesh
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 |Select Next Element|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
 |Select Previous Element|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
 
@@ -109,43 +109,43 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 
 ### Lattice
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 
 ### Particle
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 
 ### 3D View
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
 |Local View|<kbd>Numpad /</kbd>|:x:<sub>1</sub>|   |
-|Frame Selected (All Regions)|<kbd>Ctrl</kbd>+<kbd>Numpad .</kbd>|   |   |
-|Frame Selected|<kbd>Numpad .</kbd>|   |   |
+|Frame Selected (All Regions)|<kbd>Ctrl</kbd>+<kbd>Numpad .</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>#</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
+|Frame Selected|<kbd>Numpad .</kbd>|<kbd>Fn</kbd>+<kbd>#</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
 |Zoom View|<kbd>Numpad +</kbd>|:x:<sub>2</sub>|   |
 |Zoom View|<kbd>Numpad -</kbd>|:x:<sub>3</sub>|   |
 |Dolly View|<kbd>Shift</kbd>+<kbd>Numpad +</kbd>|:x:<sub>4</sub>|   |
 |Dolly View|<kbd>Shift</kbd>+<kbd>Numpad -</kbd>|:x:<sub>5</sub>|   |
-|View Camera|<kbd>Numpad 0</kbd>|   |   |
-|View Axis (Front)|<kbd>Numpad 1</kbd>|   |   |
-|View Orbit (Orbit Down)|<kbd>Numpad 2</kbd>|   |   |
-|View Axis (Right)|<kbd>Numpad 3</kbd>|   |   |
-|View Orbit (Orbit Left)|<kbd>Numpad 4</kbd>|   |   |
-|View Persp/Ortho|<kbd>Numpad 5</kbd>|   |   |
-|View Orbit (Orbit Right)|<kbd>Numpad 6</kbd>|   |   |
-|View Axis (Top)|<kbd>Numpad 7</kbd>|   |   |
-|View Orbit (Orbit Up)|<kbd>Numpad 8</kbd>|   |   |
+|View Camera|<kbd>Numpad 0</kbd>|<kbd>Fn</kbd>+<kbd>O</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>O</kbd>|
+|View Axis (Front)|<kbd>Numpad 1</kbd>|<kbd>Fn</kbd>+<kbd>,</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>,</kbd>|
+|View Orbit (Orbit Down)|<kbd>Numpad 2</kbd>|<kbd>Fn</kbd>+<kbd>.</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>.</kbd>|
+|View Axis (Right)|<kbd>Numpad 3</kbd>|<kbd>Fn</kbd>+<kbd>/</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>/</kbd>|
+|View Orbit (Orbit Left)|<kbd>Numpad 4</kbd>|<kbd>Fn</kbd>+<kbd>L</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd>|
+|View Persp/Ortho|<kbd>Numpad 5</kbd>|<kbd>Fn</kbd>+<kbd>;</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>;</kbd>|
+|View Orbit (Orbit Right)|<kbd>Numpad 6</kbd>|<kbd>Fn</kbd>+<kbd>'</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>'</kbd>|
+|View Axis (Top)|<kbd>Numpad 7</kbd>|<kbd>Fn</kbd>+<kbd>P</kbd>|<kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>P</kbd>|
+|View Orbit (Orbit Up)|<kbd>Numpad 8</kbd>|<kbd>Fn</kbd>+<kbd>[</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>[</kbd>|
 |View Axis (Back)|<kbd>Ctrl</kbd>+<kbd>Numpad 1</kbd>|   |   |
 |View Axis (Left)|<kbd>Ctrl</kbd>+<kbd>Numpad 3</kbd>|   |   |
 |View Axis (Bottom)|<kbd>Ctrl</kbd>+<kbd>Numpad 7</kbd>|   |   |
@@ -153,16 +153,16 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 |Pan View Direction (Pan Left)|<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
 |Pan View Direction (Pan Right)|<kbd>Ctrl</kbd>+<kbd>Numpad 6</kbd>|   |   |
 |Pan View Direction (Pan Up)|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
-|View Roll (Roll Left)|<kbd>Shift</kbd>+<kbd>Numpad 4</kbd>|   |   |
-|View Roll (Roll Right)|<kbd>Shift</kbd>+<kbd>Numpad 6</kbd>|   |   |
-|View Orbit (Roll 3.142, Orbit Right)|<kbd>Numpad 9</kbd>|   |   |
-|View Axis (Front, Align Active)|<kbd>Shift</kbd>+<kbd>Numpad 1</kbd>|   |   |
-|View Axis (Right, Align Active)|<kbd>Shift</kbd>+<kbd>Numpad 3</kbd>|   |   |
-|View Axis (Top, Align Active)|<kbd>Shift</kbd>+<kbd>Numpad 7</kbd>|   |   |
+|View Roll (Roll Left)|<kbd>Shift</kbd>+<kbd>Numpad 4</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd>|
+|View Roll (Roll Right)|<kbd>Shift</kbd>+<kbd>Numpad 6</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>'</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>'</kbd>|
+|View Orbit (Roll 3.142, Orbit Right)|<kbd>Numpad 9</kbd>|<kbd>Fn</kbd>+<kbd>]</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>]</kbd>|
+|View Axis (Front, Align Active)|<kbd>Shift</kbd>+<kbd>Numpad 1</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>,</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>,</kbd>|
+|View Axis (Right, Align Active)|<kbd>Shift</kbd>+<kbd>Numpad 3</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>/</kbd>|
+|View Axis (Top, Align Active)|<kbd>Shift</kbd>+<kbd>Numpad 7</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>P</kbd>|
 |View Axis (Back, Align Active)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 1</kbd>|   |   |
 |View Axis (Left, Align Active)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 3</kbd>|   |   |
 |View Axis (Bottom, Align Active)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 7</kbd>|   |   |
-|Align Camera to View|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Numpad 0</kbd>|   |   |
+|Align Camera to View|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Numpad 0</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>O</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>O</kbd>|
 |Set Active Object as Camera|<kbd>Ctrl</kbd>+<kbd>Numpad 0</kbd>   |   |   |
 
 1. equivalent: <kbd>/</kbd>
@@ -203,10 +203,10 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Expand Channels (All)|<kbd>Numpad +</kbd>|   |   |
-|Collapse Channels (All)|<kbd>Numpad -</kbd>|   |   |
-|Expand Channels|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Collapse Channels|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Expand Channels (All)|<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>=</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Collapse Channels (All)|<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>-</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
+|Expand Channels|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Collapse Channels|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 
 ### Knife Tool Modal Map
 
@@ -240,15 +240,15 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 
 ### Mask Editing
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 
 ### Eyedropper Modal Map
 
@@ -302,28 +302,28 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
-|Frame Selected|<kbd>Numpad .</kbd>|   |   |
-|Go to Current Frame|<kbd>Numpad 0</kbd>|   |   |
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
+|Frame Selected|<kbd>Numpad .</kbd>|<kbd>Fn</kbd>+<kbd>#</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
+|Go to Current Frame|<kbd>Numpad 0</kbd>|<kbd>Fn</kbd>+<kbd>O</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>O</kbd>|
 
 ### Image
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|View Center|<kbd>Numpad .</kbd>|   |   |
+|View Center|<kbd>Numpad .</kbd>|<kbd>Fn</kbd>+<kbd>#</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
 |Zoom In|<kbd>Numpad +</kbd>|:x:<sub>1</sub>|   |
 |Zoom Out|<kbd>Numpad -</kbd>|:x:<sub>2</sub>|   |
 |View Zoom Ratio (8x)|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
 |View Zoom Ratio (4x)|<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
 |View Zoom Ratio (2x)|<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
-|View Zoom Ratio (8x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
-|View Zoom Ratio (4x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
-|View Zoom Ratio (2x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
-|View Zoom Ratio (1x)|<kbd>Numpad 1</kbd>|   |   |
-|View Zoom Ratio (1/2x)|<kbd>Numpad 2</kbd>|   |   |
-|View Zoom Ratio (1/4x)|<kbd>Numpad 4</kbd>|   |   |
-|View Zoom Ratio (1/8x)|<kbd>Numpad 8</kbd>|   |   |
+|View Zoom Ratio (8x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>[</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>[</kbd>|
+|View Zoom Ratio (4x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd>|
+|View Zoom Ratio (2x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>.</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>.</kbd>|
+|View Zoom Ratio (1x)|<kbd>Numpad 1</kbd>|<kbd>Fn</kbd>+<kbd>,</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>,</kbd>|
+|View Zoom Ratio (1/2x)|<kbd>Numpad 2</kbd>|<kbd>Fn</kbd>+<kbd>.</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>.</kbd>|
+|View Zoom Ratio (1/4x)|<kbd>Numpad 4</kbd>|<kbd>Fn</kbd>+<kbd>L</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd>|
+|View Zoom Ratio (1/8x)|<kbd>Numpad 8</kbd>|<kbd>Fn</kbd>+<kbd>[</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>[</kbd>|
 
 1. equivalent: <kbd>Mouse Wheel In</kbd>
 2. equivalent: <kbd>Mouse Wheel Out</kbd>
@@ -332,42 +332,42 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Frame Selected|<kbd>Numpad .</kbd>|   |   |
+|Frame Selected|<kbd>Numpad .</kbd>|<kbd>Fn</kbd>+<kbd>#</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
 
 ### File Browser
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Increment Number in Filename (1)|<kbd>Numpad +</kbd>|   |   |
-|Increment Number in Filename (10)|<kbd>Shift</kbd>+<kbd>Numpad +</kbd>|   |   |
+|Increment Number in Filename (1)|<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>=</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Increment Number in Filename (10)|<kbd>Shift</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
 |Increment Number in Filename (100)|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Increment Number in Filename (-1)|<kbd>Numpad -</kbd>|   |   |
-|Increment Number in Filename (-10)|<kbd>Shift</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Increment Number in Filename (-1)|<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>-</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
+|Increment Number in Filename (-10)|<kbd>Shift</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 |Increment Number in Filename (-100)|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
 
 ### File Browser Main
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Refresh Filelist|<kbd>Numpad .</kbd>|   |   |
+|Refresh Filelist|<kbd>Numpad .</kbd>|<kbd>Fn</kbd>+<kbd>#</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
 
 ### File Browser Buttons
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Increment Number in Filename (1)|<kbd>Numpad +</kbd>|   |   |
-|Increment Number in Filename (10)|<kbd>Shift</kbd>+<kbd>Numpad +</kbd>|   |   |
+|Increment Number in Filename (1)|<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>=</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Increment Number in Filename (10)|<kbd>Shift</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
 |Increment Number in Filename (100)|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Increment Number in Filename (-1)|<kbd>Numpad -</kbd>|   |   |
-|Increment Number in Filename (-10)|<kbd>Shift</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Increment Number in Filename (-1)|<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>-</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
+|Increment Number in Filename (-10)|<kbd>Shift</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 |Increment Number in Filename (-100)|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
 
 ### NLA Editor
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Frame Selected|<kbd>Numpad .</kbd>|   |   |
-|Go to Current Frame|<kbd>Numpad 0</kbd>|   |   |
+|Frame Selected|<kbd>Numpad .</kbd>|<kbd>Fn</kbd>+<kbd>#</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
+|Go to Current Frame|<kbd>Numpad 0</kbd>|<kbd>Fn</kbd>+<kbd>O</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>O</kbd>|
 
 ### Text
 
@@ -385,22 +385,22 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Frame Selected|<kbd>Numpad .</kbd>|   |   |
-|Go to Current Frame|<kbd>Numpad 0</kbd>|   |   |
-|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
-|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|Frame Selected|<kbd>Numpad .</kbd>|<kbd>Fn</kbd>+<kbd>#</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
+|Go to Current Frame|<kbd>Numpad 0</kbd>|<kbd>Fn</kbd>+<kbd>O</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>O</kbd>|
+|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
+|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 
 ### SequencerPreview
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Sequencer View Zoom Ratio (8x)|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
-|Sequencer View Zoom Ratio (4x)|<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
-|Sequencer View Zoom Ratio (2x)|<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
-|Sequencer View Zoom Ratio (1x)|<kbd>Numpad 1</kbd>|   |   |
-|Sequencer View Zoom Ratio (1/2x)|<kbd>Numpad 2</kbd>|   |   |
-|Sequencer View Zoom Ratio (1/4x)|<kbd>Numpad 4</kbd>|   |   |
-|Sequencer View Zoom Ratio (1/8x)|<kbd>Numpad 8</kbd>|   |   |
+|Sequencer View Zoom Ratio (8x)|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>[</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>[</kbd>|
+|Sequencer View Zoom Ratio (4x)|<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd>|
+|Sequencer View Zoom Ratio (2x)|<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>.</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>.</kbd>|
+|Sequencer View Zoom Ratio (1x)|<kbd>Numpad 1</kbd>|<kbd>Fn</kbd>+<kbd>,</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>,</kbd>|
+|Sequencer View Zoom Ratio (1/2x)|<kbd>Numpad 2</kbd>|<kbd>Fn</kbd>+<kbd>.</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>.</kbd>|
+|Sequencer View Zoom Ratio (1/4x)|<kbd>Numpad 4</kbd>|<kbd>Fn</kbd>+<kbd>L</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd>|
+|Sequencer View Zoom Ratio (1/8x)|<kbd>Numpad 8</kbd>|<kbd>Fn</kbd>+<kbd>[</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>[</kbd>|
 
 ### Console
 
@@ -425,14 +425,14 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 |View Zoom Ratio (8x)|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
 |View Zoom Ratio (4x)|<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
 |View Zoom Ratio (2x)|<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
-|View Zoom Ratio (8x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
-|View Zoom Ratio (4x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|   |   |
-|View Zoom Ratio (2x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
-|View Zoom Ratio (1x)|<kbd>Numpad 1</kbd>|   |   |
-|View Zoom Ratio (1/2x)|<kbd>Numpad 2</kbd>|   |   |
-|View Zoom Ratio (1/4x)|<kbd>Numpad 4</kbd>|   |   |
-|View Zoom Ratio (1/8x)|<kbd>Numpad 8</kbd>|   |   |
-|Frame Selected|<kbd>Numpad .</kbd>|   |   |
+|View Zoom Ratio (8x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>[</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>[</kbd>|
+|View Zoom Ratio (4x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 4</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd>|
+|View Zoom Ratio (2x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>.</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>.</kbd>|
+|View Zoom Ratio (1x)|<kbd>Numpad 1</kbd>|<kbd>Fn</kbd>+<kbd>,</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>,</kbd>|
+|View Zoom Ratio (1/2x)|<kbd>Numpad 2</kbd>|<kbd>Fn</kbd>+<kbd>.</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>.</kbd>|
+|View Zoom Ratio (1/4x)|<kbd>Numpad 4</kbd>|<kbd>Fn</kbd>+<kbd>L</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd>|
+|View Zoom Ratio (1/8x)|<kbd>Numpad 8</kbd>|<kbd>Fn</kbd>+<kbd>[</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>[</kbd>|
+|Frame Selected|<kbd>Numpad .</kbd>|<kbd>Fn</kbd>+<kbd>#</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
 
 1. equivalent: <kbd>Mouse Wheel In</kbd>
 2. equivalent: <kbd>Mouse Wheel Out</kbd>
@@ -441,7 +441,7 @@ This requires you to program the input key combos on your Ducky One keyboard, so
 
 |Operation|Standard input|Macro input|Custom input|
 |---|---|---|---|
-|Center Current Frame|<kbd>Numpad 0</kbd>|   |   |
+|Center Current Frame|<kbd>Numpad 0</kbd>|<kbd>Fn</kbd>+<kbd>O</kbd>|<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>O</kbd>|
 
 ## Input mapping
 
@@ -504,11 +504,11 @@ This is a unique list of all the single keys and key combos above that need to b
 |2|View Zoom Ratio (8x)|<kbd>Ctrl</kbd>+<kbd>Numpad 8</kbd>|   |   |
 |14|Select Less|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 |1|Collapse Channels|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
-|2|Increment Number in Filename (-100)|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|   |   |
+|2|Increment Number in Filename (-100)|<kbd>Ctrl</kbd>+<kbd>Numpad -</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>-</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>-</kbd>|
 |1|Frame Selected (All Regions)|<kbd>Ctrl</kbd>+<kbd>Numpad .</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>#</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>#</kbd>|
 |14|Select More|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
 |1|Expand Channels|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
-|2|Increment Number in Filename (100)|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|   |   |
+|2|Increment Number in Filename (100)|<kbd>Ctrl</kbd>+<kbd>Numpad +</kbd>|<kbd>Fn</kbd>+<kbd>Shift</kbd>+<kbd>=</kbd>|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>=</kbd>|
 |1|View Axis (Back, Align Active)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 1</kbd>|   |   |
 |2|View Zoom Ratio (2x)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 2</kbd>|   |   |
 |1|View Axis (Left, Align Active)|<kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Numpad 3</kbd>|   |   |
